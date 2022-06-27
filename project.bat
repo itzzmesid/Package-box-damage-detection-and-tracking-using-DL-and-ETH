@@ -1,0 +1,1 @@
+call "C:\Users\athul\miniconda3\Scripts\activate.bat" myenv & cd "C:\Games\Project" & python custom_qr.py & python untitled2.py
